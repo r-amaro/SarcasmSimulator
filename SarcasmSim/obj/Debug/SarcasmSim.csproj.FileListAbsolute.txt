@@ -1,0 +1,7 @@
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\bin\Debug\SarcasmSim.exe.config
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\bin\Debug\SarcasmSim.exe
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\bin\Debug\SarcasmSim.pdb
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\obj\Debug\SarcasmSim.csprojAssemblyReference.cache
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\obj\Debug\SarcasmSim.csproj.CoreCompileInputs.cache
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\obj\Debug\SarcasmSim.exe
+C:\Users\ralfg\source\repos\SarcasmSim\SarcasmSim\obj\Debug\SarcasmSim.pdb
